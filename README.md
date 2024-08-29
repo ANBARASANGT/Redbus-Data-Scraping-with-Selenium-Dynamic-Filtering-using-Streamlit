@@ -32,12 +32,6 @@ Approach
    Retrieve and filter data using SQL queries.
    Enable interactive data filtering via Streamlit.
 
-Metrics
-- Data Accuracy: Completeness and correctness of the data.
-- Database Design: Efficiency and effectiveness of the schema.
-- Application Usability: User experience and ease of use.
-- Filter Functionality: Effectiveness and responsiveness of filters.
-- Code Quality:Adherence to best practices and coding standards.
 
 Technical Tags
 - Web Scraping
