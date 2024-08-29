@@ -1,16 +1,16 @@
-                                                         Project Overview
+### Project Overview
 
-##Objective
+## Objective
 
 To collect, analyze, and visualize bus travel data from Redbus using Selenium for scraping and Streamlit for dynamic filtering.
 
-Skills Developed
+**Skills Developed**
 - Web Scraping with Selenium
 - Python Programming
 - SQL for Data Storage
 - Streamlit for Web Applications
 
-Business Use Cases
+## Business Use Cases
 - Travel Aggregators: Real-time bus schedules and seat availability.
 - Market Analysis: Insights into travel patterns and preferences.
 - Customer Service: Customized travel options based on data.
