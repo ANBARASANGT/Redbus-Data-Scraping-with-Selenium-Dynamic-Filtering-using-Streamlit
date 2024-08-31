@@ -49,4 +49,8 @@ To collect, analyze, and visualize bus travel data from Redbus using Selenium fo
 - Streamlit Application: User-friendly and efficient with effective filters.
 
 ![Home redbus](https://github.com/user-attachments/assets/711afc95-938b-47c6-a589-6031ecac2a19)
+![account redbus](https://github.com/user-attachments/assets/a7eefa6c-e4ec-4833-9132-22120890e542)
+![helpline redus](https://github.com/user-attachments/assets/485ae748-8383-4e68-bce1-f41739e4e4c0)
+![career redbus](https://github.com/user-attachments/assets/bfb4ee8b-eacf-4faa-be61-2ab2d42fb745)
+![about redbus](https://github.com/user-attachments/assets/1bdbb06c-02da-4be7-ab1d-81f850c75daf)
 
