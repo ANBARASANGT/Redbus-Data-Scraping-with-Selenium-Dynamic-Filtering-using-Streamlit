@@ -48,4 +48,5 @@ To collect, analyze, and visualize bus travel data from Redbus using Selenium fo
 - Database: Structured SQL database with accurate and complete data.
 - Streamlit Application: User-friendly and efficient with effective filters.
 
+![Home redbus](https://github.com/user-attachments/assets/711afc95-938b-47c6-a589-6031ecac2a19)
 
